@@ -20,7 +20,11 @@ Nova funkcionalnost naj se razvija v namenski veji in pred združitvijo preveri 
 
 ## Spremembe
 
+<<<<<<< HEAD
 verzija 1:
+=======
+Verzija 1
+>>>>>>> feature/naslov
 Odpravljene napake
 Izboljsava stabilnosti
 Spremembe uporabniškega vmesnika

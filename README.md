@@ -21,3 +21,4 @@ Nova funkcionalnost naj se razvija v namenski veji in pred združitvijo preveri 
 ## Spremembe
 
 Odpravljene napake
+Izboljsava stabilnosti

@@ -13,7 +13,7 @@ jobs:
       - name: Prenesi repozitorij
         uses: actions/checkout@v4
       - name: Nastavi Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Zaženi enotske teste

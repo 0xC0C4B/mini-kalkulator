@@ -20,6 +20,7 @@ Nova funkcionalnost naj se razvija v namenski veji in pred združitvijo preveri 
 
 ## Spremembe
 
-Verzija 4:
+Verzija 1
 Odpravljene napake
 Izboljsava stabilnosti
+Spremembe uporabniškega vmesnika

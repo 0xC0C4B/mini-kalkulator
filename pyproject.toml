@@ -1,0 +1,8 @@
+[project]
+name = "mini-kalkulator"
+version = "1.0.0"
+description = "Učni projekt za demonstracijo Gita"
+requires-python = ">=3.10"
+
+[tool.unittest]
+test-directory = "tests"
